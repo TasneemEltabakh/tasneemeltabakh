@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Tasneem Muhammed</h1>
-<h3 align="center">🚀 A Backend Developer Specializing in .NET Core & Data Science</h3>
+<h1 align="center">
+  Hi there! 👋 I'm <strong>Tasneem Muhammed</strong>
+</h1>
+<h3 align="center">
+  A Backend Developer with a Passion for Data Science and Machine Learning
+</h3>
+<p align="center">
+  🚀 Turning ideas into scalable backend solutions, crafting clean APIs, and uncovering insights through data.  
+  <br>💡 Curious, driven, and constantly learning to push the boundaries of technology.
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
