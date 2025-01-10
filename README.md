@@ -40,19 +40,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TasneemEltabakh&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TasneemEltabakh&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasneemEltabakh&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 🚀 What I'm Working On
 - 💻 **Cloud Integration Projects** using Grandstream API & CRMs.
 - 📈 Applying **machine learning** to analyze data quality and build predictive models.
