@@ -67,7 +67,3 @@
 - 📘 Authored a **published novel**.
 - 📊 Created impactful projects integrating **data science and backend development**.
 
----
-
-### ✨ Fun Quote
-> "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
