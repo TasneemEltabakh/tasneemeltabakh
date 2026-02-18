@@ -1,4 +1,4 @@
-[<h1 align="center">Hi, I'm <strong>Tasneem Muhammed Attia</strong></h1>
+<h1 align="center">Hi, I'm <strong>Tasneem Muhammed Attia</strong></h1>
 <h3 align="center">Backend Developer • Software Engineering Student • Researcher</h3>
 
 <p align="center">
