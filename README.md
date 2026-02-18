@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=4F8EF7&size=26&center=true&vCenter=true&width=600&lines=Backend+Developer;Distributed+Systems+Enthusiast;AI+%26+Cloud+Engineering;Always+learning+something+new" />
 </p>
 
-<h3 align="center">Backend Developer • Software Engineering Student • Researcher</h3>
 
 <p align="center">
   I am a Communications & Information Engineering student at Zewail City, specializing in Data Science, AI, and Software Development.  
