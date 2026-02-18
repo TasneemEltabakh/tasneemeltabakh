@@ -76,5 +76,3 @@ Analyzed 5,312 code samples using software metrics and machine learning models t
   <a href="mailto:tasneemeltabakhh@gmail.com"><b>Email</b></a> •
   <a href="https://github.com/TasneemEltabakh"><b>GitHub</b></a>
 </p>
-
-]
