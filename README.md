@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=4F8EF7&size=26&center=true&vCenter=true&width=600&lines=Backend+Developer;Distributed+Systems+Enthusiast;AI+%26+Cloud+Engineering;Always+learning+something+new" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shikha09git&label=Profile%20views&color=0e75b6&style=flat" alt="shikha09git" /> </p>
 <p align="center">
   I am a Communications & Information Engineering student at Zewail City, specializing in Data Science, AI, and Software Development.  
   My main interests are backend engineering, distributed systems, and applying intelligent methods to real-world systems.
