@@ -8,7 +8,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 I enjoy building systems that are reliable, maintainable, and scalable.  
 My background combines **backend development**, **cloud technologies**, and **data-driven modeling**.  
 I’m also involved in research and teaching, which helped me develop strong communication and teamwork skills.
@@ -22,7 +22,7 @@ I’m also involved in research and teaching, which helped me develop strong com
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 ### Languages
 **C#, Go, Python, C, SQL, JavaScript**
@@ -44,7 +44,7 @@ I’m also involved in research and teaching, which helped me develop strong com
 
 ---
 
-## 🔍 Current Work
+## Current Work
 - Designing an **AI-driven load management system (SmartLoad)** as part of my graduation project  
 - Working as a backend developer on communication and CRM platforms  
 - Exploring distributed and event-driven system architectures  
@@ -52,29 +52,13 @@ I’m also involved in research and teaching, which helped me develop strong com
 
 ---
 
-## 📌 Selected Projects
-
-### **Distributed Video Streaming System**
-Built a microservices-based video platform using Go, Kafka, Redis, and Kubernetes, with an API gateway, caching, and monitoring.
-
-### **Go-Inspired Language Compiler**
-Implemented lexical analysis, grammar parsing, semantic checks, and intermediate code generation using Lex, Yacc, and C.
-
-### **Telecom Traffic Forecasting**
-Reproduced ConvLSTM + 3D-CNN (D-STN) architecture and experimented with ML models (Prophet, XGBoost, Random Forest) for mobile traffic forecasting.
-
-### **Flask-Based Fashion Trading Platform**
-Developed backend features, CI/CD pipelines, Docker deployment, and automated UI testing with Selenium.
-
----
-
-## 📄 Publication
+## Publication
 **Quality of AI-Generated vs Human-Generated Code** — *IEEE ICCTA 2024*  
 Analyzed 5,312 code samples using software metrics and ML models to compare AI- and human-written code.
 
 ---
 
-## 🎓 Teaching & Activities
+## Teaching & Activities
 - Junior Teaching Assistant — Programming, OOP, Calculus  
 - Programming tutor (HTML/CSS/JS & Python for kids and teens)  
 - Robotics workshop instructor at Goethe-Institut  
@@ -83,11 +67,11 @@ Analyzed 5,312 code samples using software metrics and ML models to compare AI- 
 
 ---
 
-## 📬 Contact
+## Contact
 <p align="center">
   <a href="https://www.linkedin.com/in/tasneem-el-tabakh-5a79b0241/"><b>LinkedIn</b></a> •
   <a href="mailto:tasneemeltabakhh@gmail.com"><b>Email</b></a> •
   <a href="https://github.com/TasneemEltabakh"><b>GitHub</b></a>
 </p>
 
-](https://meet.google.com/zgx-fxht-iom)
+]
