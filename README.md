@@ -53,8 +53,11 @@ I’m also involved in research and teaching, which helped me develop strong com
 ---
 
 ## Publication
-**Quality of AI-Generated vs Human-Generated Code** — *IEEE ICCTA 2024*  
-Analyzed 5,312 code samples using software metrics and ML models to compare AI- and human-written code.
+**Quality of AI-Generated vs Human-Generated Code**  
+T. M. Eltabakh, N. Nabil Soudi, D. Shawky  
+*IEEE ICCTA 2024*  
+Analyzed 5,312 code samples using software metrics and machine learning models to compare AI- and human-written code.  
+🔗 https://ieeexplore.ieee.org/document/10974782
 
 ---
 
