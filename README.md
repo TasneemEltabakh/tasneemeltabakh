@@ -80,8 +80,4 @@ Analyzed 5,312 code samples using software metrics and machine learning models t
   <a href="https://github.com/TasneemEltabakh"><b>GitHub</b></a>
 </p>
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TasneemEltabakh&show_icons=true" />
-</p>
 
