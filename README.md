@@ -29,7 +29,7 @@ class Tasneem(Engineer):
 
 <br/>
 
-## 👋 &nbsp; whoami
+## whoami
 
 I like owning a feature end to end, from database schema to API to deployment.
 
@@ -38,70 +38,60 @@ software used by real businesses while still a student. My grade-A graduation pr
 pushed that into microservices and reliability. I care about how systems behave under
 pressure, and I pick up whatever the problem needs.
 
-🎓 &nbsp; Cum Laude, B.Sc. Communications & Information Engineering &nbsp;·&nbsp; Data Science & AI major
-
-📄 &nbsp; IEEE published &nbsp;·&nbsp; AI vs human generated code
-
-🌍 &nbsp; British Council **Women in STEM** scholar, heading to an M.Sc. at London South Bank University
+- Cum Laude, B.Sc. Communications & Information Engineering &nbsp;·&nbsp; Data Science & AI major
+- IEEE published, one paper on AI vs human generated code
+- British Council **Women in STEM** scholar, heading to an M.Sc. at London South Bank University
 
 <br/>
 
-## 🛠️ &nbsp; Stack
+## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,go,python,c,java,js&perline=7" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,go,python,react,nextjs,nodejs&perline=7" alt="languages and web" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,tailwind&perline=7" alt="web" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,redis,postgres,mongodb,grafana&perline=7" alt="infra" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,linux,azure,aws,sklearn,pytorch,tensorflow&perline=7" alt="data" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,postgres,mongodb,grafana,git&perline=7" alt="infra" />
 </p>
 
 <br/>
 
-## 🚀 &nbsp; SmartLoad &nbsp;·&nbsp; graduation project, grade A
+## SmartLoad &nbsp;·&nbsp; graduation project, grade A
 
-> A control loop that sits in front of an NGINX pool and turns traffic routing, forecasting,
-> anomaly detection, and autoscaling into one safe, self-driving system. It detects failing
-> servers a balancer can't see, reroutes around them, and scales the pool before demand spikes.
+A control loop that sits in front of an NGINX pool and turns traffic routing, forecasting,
+anomaly detection, and autoscaling into one safe, self-driving system. It detects failing
+servers a balancer can't see, reroutes around them, and scales the pool before demand
+spikes, cutting errors and tail latency **250x** during failures, with a classical fallback
+that keeps every decision safe and reversible.
 
-<p>
-  <img src="https://img.shields.io/badge/250x-lower_errors_%26_tail_latency-0D9488?style=flat-square" alt="impact" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/stack-Python·K8s·Redis·TimescaleDB·OpenTelemetry-134E4A?style=flat-square" alt="stack" />
-</p>
+<sub>Python · NGINX · Redis · TimescaleDB · Kubernetes · OpenTelemetry · Prometheus · scikit-learn · Flask · React</sub>
 
 <br/>
 
-## 📦 &nbsp; More things I've built
+## More things I've built
 
-🎬 &nbsp; **ClipSphere** &nbsp;— full-stack short-video platform: uploads, feeds, moderation &nbsp;`Next.js` `Node` `MongoDB` `MinIO`
+**ClipSphere** — full-stack short-video platform: uploads, feeds, moderation &nbsp;<sub>`Next.js` `Node` `MongoDB` `MinIO`</sub>
 
-🎧 &nbsp; **Spotify Analytics** &nbsp;— big-data pipeline over 2.2M+ tracks, Bronze/Silver/Gold Delta Lake &nbsp;`Spark` `Databricks` `Delta Lake`
+**Spotify Analytics** — big-data pipeline over 2.2M+ tracks, Bronze/Silver/Gold Delta Lake &nbsp;<sub>`Spark` `Databricks` `Delta Lake`</sub>
 
-📺 &nbsp; **Microservices Video** &nbsp;— event-driven streaming with a gateway and circuit breakers &nbsp;`Go` `Kafka` `Redis` `Kubernetes`
+**Microservices Video** — event-driven streaming with a gateway and circuit breakers &nbsp;<sub>`Go` `Kafka` `Redis` `Kubernetes`</sub>
 
-⚡ &nbsp; **Parallel & Distributed** &nbsp;— 2M+ records benchmarked: sequential vs MPI vs Hadoop &nbsp;`C` `MPI` `Hadoop`
+**Parallel & Distributed** — 2M+ records benchmarked: sequential vs MPI vs Hadoop &nbsp;<sub>`C` `MPI` `Hadoop`</sub>
 
-🧩 &nbsp; **Go-Like Compiler** &nbsp;— front-to-back compiler with IR generation &nbsp;`Lex` `Yacc` `C`
+**Go-Like Compiler** — front-to-back compiler with IR generation &nbsp;<sub>`Lex` `Yacc` `C`</sub>
 
-🚦 &nbsp; **Traffic Forecasting** &nbsp;— deep learning vs classical over a city grid &nbsp;`Keras` `ConvLSTM` `3D-CNN`
+**Traffic Forecasting** — deep learning vs classical over a city grid &nbsp;<sub>`Keras` `ConvLSTM` `3D-CNN`</sub>
 
 <p align="right"><sub><a href="https://tasneem-portfolio.pages.dev">see all on the portfolio →</a></sub></p>
 
 <br/>
 
-## 📊 &nbsp; By the numbers
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TasneemEltabakh&show_icons=true&hide_border=true&title_color=0D9488&icon_color=0D9488&text_color=768390&bg_color=00000000" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasneemEltabakh&layout=compact&hide_border=true&title_color=0D9488&text_color=768390&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TasneemEltabakh&show_icons=true&hide_border=true&title_color=0D9488&icon_color=0D9488&text_color=768390&bg_color=00000000" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasneemEltabakh&layout=compact&hide_border=true&title_color=0D9488&text_color=768390&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 <br/>
 
-## ✍️ &nbsp; Beyond the terminal
+## Beyond the terminal
 
 Engineering isn't the whole story. I've been a teaching assistant for Programming, OOP,
 and Calculus, tutored kids and teens in web and Python, run robotics workshops at the
