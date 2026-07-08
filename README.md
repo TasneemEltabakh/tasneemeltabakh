@@ -11,10 +11,12 @@
 </p>
 
 <p align="center">
-  <a href="https://tasneem-portfolio.pages.dev"><img src="https://img.shields.io/badge/Portfolio-tasneem--portfolio.pages.dev-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://tasneem-portfolio.pages.dev"><img src="https://img.shields.io/badge/Portfolio-tasneem--portfolio.pages.dev-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/tasneem-el-tabakh-5a79b0241/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:tasneemeltabakhh@gmail.com"><img src="https://img.shields.io/badge/Email-134E4A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+<br/>
 
 ```python
 class Tasneem(Engineer):
@@ -25,94 +27,95 @@ class Tasneem(Engineer):
     status        = "shipping, always"
 ```
 
----
+<br/>
 
-## `~/whoami`
+## 👋 &nbsp; whoami
 
 I like owning a feature end to end, from database schema to API to deployment.
 
-As the **sole backend engineer** on a commercial ASP.NET Core platform, I shipped
-real software used by real businesses while still a student. My graduation project
-pushed that into microservices and reliability. I care about how systems behave
-under pressure, and I pick up whatever the problem needs.
+As the **sole backend engineer** on a commercial ASP.NET Core platform, I shipped real
+software used by real businesses while still a student. My grade-A graduation project
+pushed that into microservices and reliability. I care about how systems behave under
+pressure, and I pick up whatever the problem needs.
 
-- Cum Laude, B.Sc. Communications &amp; Information Engineering (Major: Data Science &amp; AI, Minor: Software Development)
-- IEEE published, one peer-reviewed paper on AI vs human generated code
-- British Council **Women in STEM** scholar, heading to an M.Sc. at London South Bank University
-- 3 contract engineering roles, 50+ projects shipped
+🎓 &nbsp; Cum Laude, B.Sc. Communications & Information Engineering &nbsp;·&nbsp; Data Science & AI major
 
----
+📄 &nbsp; IEEE published &nbsp;·&nbsp; AI vs human generated code
 
-## `~/currently`
+🌍 &nbsp; British Council **Women in STEM** scholar, heading to an M.Sc. at London South Bank University
 
-- Building a **local-first smart-home platform** on Home Assistant that keeps every home working even when the internet is down (Smartly)
-- Just shipped **SmartLoad**, my grade-A graduation project: adaptive load-management middleware that reroutes around failing servers and forecasts demand before peaks hit
-- Exploring event-driven and distributed system design, mostly in Go
-- Teaching programming and web development on the side
+<br/>
 
----
+## 🛠️ &nbsp; Stack
 
-## `~/stack`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,go,python,c,java,js&perline=7" alt="languages" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,tailwind&perline=7" alt="web" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,redis,postgres,mongodb,grafana&perline=7" alt="infra" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,linux,azure,aws,sklearn,pytorch,tensorflow&perline=7" alt="data" />
+</p>
 
-```txt
-Backend      ASP.NET Core · Node · Express · Flask · FastAPI · REST · JWT · RBAC
-Databases    PostgreSQL · TimescaleDB · MongoDB · SQL Server · EF Core · SQLAlchemy
-Reliability  Docker · Kubernetes · NGINX · Prometheus · Grafana · OpenTelemetry · Redis
-AI / Data    Python · scikit-learn · LightGBM · Pandas · Spark · Databricks · Delta Lake
-Languages    C# · Python · Go · C · Java · JavaScript · SQL
-```
+<br/>
 
----
+## 🚀 &nbsp; SmartLoad &nbsp;·&nbsp; graduation project, grade A
 
-## `~/featured`
+> A control loop that sits in front of an NGINX pool and turns traffic routing, forecasting,
+> anomaly detection, and autoscaling into one safe, self-driving system. It detects failing
+> servers a balancer can't see, reroutes around them, and scales the pool before demand spikes.
 
-### SmartLoad, Adaptive Load-Management Middleware &nbsp;·&nbsp; Graduation Project, Grade A
-A control loop that sits in front of an NGINX pool and turns traffic routing,
-forecasting, anomaly detection, and autoscaling into one safe, self-driving system.
-It detects failing servers a balancer can't see, reroutes around them, and scales
-the pool before demand spikes. **250x lower errors and tail latency during failures**,
-with a classical fallback that keeps every decision safe and reversible.
-<br/><sub>Python · NGINX · Redis · TimescaleDB · Kubernetes · OpenTelemetry · Prometheus · Grafana · scikit-learn · Flask · React</sub>
+<p>
+  <img src="https://img.shields.io/badge/250x-lower_errors_%26_tail_latency-0D9488?style=flat-square" alt="impact" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/stack-Python·K8s·Redis·TimescaleDB·OpenTelemetry-134E4A?style=flat-square" alt="stack" />
+</p>
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **ClipSphere** | Full-stack short-video platform: uploads, feeds, moderation | Next.js · Node · MongoDB · MinIO · Docker |
-| **Spotify Analytics** | Big-data pipeline over 2.2M+ tracks, Bronze/Silver/Gold Delta Lake | Spark · Databricks · S3 · Delta Lake · Streamlit |
-| **Microservices Video** | Event-driven streaming with a gateway and circuit breakers | Go · Kafka · Redis · Kubernetes · OpenSearch |
-| **Parallel &amp; Distributed** | 2M+ records benchmarked: sequential vs MPI vs Hadoop | C · MPI · Java · Hadoop · Docker |
-| **Go-Like Compiler** | Front-to-back compiler with IR generation | Lex · Yacc · C |
-| **Traffic Forecasting** | Deep learning vs classical over a city grid | Keras · ConvLSTM · 3D-CNN · XGBoost |
+<br/>
 
-More on the [portfolio](https://tasneem-portfolio.pages.dev).
+## 📦 &nbsp; More things I've built
 
----
+🎬 &nbsp; **ClipSphere** &nbsp;— full-stack short-video platform: uploads, feeds, moderation &nbsp;`Next.js` `Node` `MongoDB` `MinIO`
 
-## `~/publications`
+🎧 &nbsp; **Spotify Analytics** &nbsp;— big-data pipeline over 2.2M+ tracks, Bronze/Silver/Gold Delta Lake &nbsp;`Spark` `Databricks` `Delta Lake`
 
-**Quality of AI-Generated vs Human-Generated Code** &nbsp;·&nbsp; IEEE ICCTA 2024
-<br/>T. M. Eltabakh, N. N. Soudi, D. Shawky &nbsp;·&nbsp; pp. 200-205
-<br/>Analyzed 5,312 code samples with software metrics and ML models to compare AI and human written code.
-<br/>[ieeexplore.ieee.org/document/10974782](https://ieeexplore.ieee.org/document/10974782)
+📺 &nbsp; **Microservices Video** &nbsp;— event-driven streaming with a gateway and circuit breakers &nbsp;`Go` `Kafka` `Redis` `Kubernetes`
 
----
+⚡ &nbsp; **Parallel & Distributed** &nbsp;— 2M+ records benchmarked: sequential vs MPI vs Hadoop &nbsp;`C` `MPI` `Hadoop`
 
-## `~/beyond-the-terminal`
+🧩 &nbsp; **Go-Like Compiler** &nbsp;— front-to-back compiler with IR generation &nbsp;`Lex` `Yacc` `C`
 
-Engineering is not the whole story.
+🚦 &nbsp; **Traffic Forecasting** &nbsp;— deep learning vs classical over a city grid &nbsp;`Keras` `ConvLSTM` `3D-CNN`
 
-- Junior Teaching Assistant: Programming, OOP, Calculus
-- Programming tutor: HTML/CSS/JS and Python, for kids and teens
-- Robotics workshop instructor at the Goethe-Institut
-- Vice Head of the Zewail City Science Festival
-- Author of the Arabic novel **Quartz**, published at the Cairo International Book Fair
+<p align="right"><sub><a href="https://tasneem-portfolio.pages.dev">see all on the portfolio →</a></sub></p>
+
+<br/>
+
+## 📊 &nbsp; By the numbers
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TasneemEltabakh&show_icons=true&hide_border=true&title_color=0D9488&icon_color=0D9488&text_color=768390&bg_color=00000000" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasneemEltabakh&layout=compact&hide_border=true&title_color=0D9488&text_color=768390&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+<br/>
+
+## ✍️ &nbsp; Beyond the terminal
+
+Engineering isn't the whole story. I've been a teaching assistant for Programming, OOP,
+and Calculus, tutored kids and teens in web and Python, run robotics workshops at the
+Goethe-Institut, served as Vice Head of the Zewail City Science Festival, and published
+the Arabic novel **Quartz** at the Cairo International Book Fair.
+
+<br/>
 
 ---
 
 <p align="center">
   <a href="https://tasneem-portfolio.pages.dev"><b>Portfolio</b></a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/tasneem-el-tabakh-5a79b0241/"><b>LinkedIn</b></a> &nbsp;•&nbsp;
-  <a href="mailto:tasneemeltabakhh@gmail.com"><b>Email</b></a> &nbsp;•&nbsp;
-  <a href="https://github.com/TasneemEltabakh"><b>GitHub</b></a>
+  <a href="mailto:tasneemeltabakhh@gmail.com"><b>Email</b></a>
 </p>
 
 <p align="center"><sub>Fresh grad, relentless builder. Shipping, always.</sub></p>
