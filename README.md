@@ -92,15 +92,6 @@ pressure, and I pick up whatever the problem needs.
 
 <br/>
 
-## &nbsp; By the numbers
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TasneemEltabakh&show_icons=true&hide_border=true&title_color=0D9488&icon_color=0D9488&text_color=768390&bg_color=00000000" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasneemEltabakh&layout=compact&hide_border=true&title_color=0D9488&text_color=768390&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-<br/>
-
 ## &nbsp; Beyond the terminal
 
 Engineering isn't the whole story. I've been a teaching assistant for Programming, OOP,
